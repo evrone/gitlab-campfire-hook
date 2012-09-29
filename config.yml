@@ -1,0 +1,4 @@
+campfire_api_key:     #your campfire api key
+campfire_domain:      #your domain <whatever.campfirenow.com>
+campfire_room_id:        #campfire room number <whatever.campfirenow.com/room/<number here>
+auth_token: # security token
